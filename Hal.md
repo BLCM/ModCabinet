@@ -1,5 +1,6 @@
 # Download
-[[Hal|https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/00Schmidt/HAL.txt]]
+[[Hal|https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/00Schmidt/HAL.txt]]|
+----|
 
 ## Description
 Scrapped project, first mod
