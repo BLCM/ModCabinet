@@ -11,4 +11,5 @@ Install WIth Filter Tool Unless you know how to Merge hotfixes yourself
 Everything is editable and categorised as such for an easier Customazability to your own needs.  
 
 ## Pictures
-![](http://prntscr.com/g4hyl2)
+Cost is low cause the image is from a lvl 20 save
+![](https://image.prntscr.com/image/TcwFzq3-SWKVnLjfwgP6xA.png)
