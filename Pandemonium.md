@@ -14,13 +14,13 @@ Shields, grenades, and relics are also randomized, to various degrees of effctiv
 In short, complete chaos.
 
 
-SEPARATED VERSIONS;
+## SEPARATED VERSIONS
 If you don't want the whole package, there are versions that only randomize weapons, shields, grenades, and relics
 
-DISAPPEARING WEAPONS/ITEMS:
+## DISAPPEARING WEAPONS/ITEMS
 If a weapon/item spawns with a barrel/part from a DLC, and the gun/item itself isn't from that DLC, the barrel/part will disappear the next time you load that save file.
 
-NOTES;
+## NOTES
 Run this file last if possible.
 The game will probably delete 99% of weapons/shields/grenades/relics you obtain during this mod's use, if you do not run the mod before loading a save file where you have used the mod previously.
 Highly recommended to run this on a new playthrough, if for no other reason than to not delete items when you run your typical save file without the mod active.
