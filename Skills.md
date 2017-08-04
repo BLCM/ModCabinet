@@ -1,8 +1,8 @@
-[← Go back](https://github.com/bugworm/Categories/wiki/Borderlands-2)
+[[← Go back|Borderlands-2]]
 
-* [Axton](https://github.com/bugworm/Categories/wiki/Axton)
-* [Gaige](https://github.com/bugworm/Categories/wiki/Gaige)
-* [Krieg](https://github.com/bugworm/Categories/wiki/Krieg)
-* [Maya](https://github.com/bugworm/Categories/wiki/Maya)
-* [Salvador](https://github.com/bugworm/Categories/wiki/Salvador)
-* [Zer0](https://github.com/bugworm/Categories/wiki/Zer0)
+* [[Axton|Axton]]
+* [[Gaige|Gaige]]
+* [[Krieg|Krieg]]
+* [[Maya|Maya]]
+* [[Salvador|Salvador]]
+* [[Zer0|Zer0]]
