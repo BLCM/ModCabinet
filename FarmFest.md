@@ -18,4 +18,4 @@
 Install Normally or By using Filter tool
 
 ### Pictures
-![](https://media.discordapp.net/attachments/140245514523377664/339065047689068546/unknown.png?width=909&height=474)
+![](https://media.discordapp.net/attachments/140245514523377664/339065047689068546/unknown.png?width=909&height=474) Multiple savage lee corpses and drops
