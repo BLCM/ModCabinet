@@ -10,3 +10,4 @@
 * [Quality of Life](https://github.com/bugworm/Categories/wiki/Quality-Of-Life)
 * [Visuals And Standalone Skins](https://github.com/bugworm/Categories/wiki/Visuals-And-StandAlone-Skins)
 * [Cheat Mods](https://github.com/bugworm/Categories/wiki/Cheat-Mods)
+* [WIP or In Need of Feedback](https://github.com/bugworm/Categories/wiki/WIP)
