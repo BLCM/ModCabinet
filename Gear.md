@@ -1,14 +1,14 @@
-[← Go back](https://github.com/bugworm/Categories/wiki/Borderlands-2)
+[[← Go back|Borderlands-2]]
 
-* [Accessories](https://github.com/bugworm/Categories/wiki/Accessories)
-* [Assault Rifles](https://github.com/bugworm/Categories/wiki/Assault-Rifles) 
-* [COMs](https://github.com/bugworm/Categories/wiki/COMs)
-* [Gear Packs](https://github.com/bugworm/Categories/wiki/Gear-Packs)
-* [Grenades](https://github.com/bugworm/Categories/wiki/Grenades)
-* [Pistols](https://github.com/bugworm/Categories/wiki/Pistols)
-* [Relics](https://github.com/bugworm/Categories/wiki/Relics)
-* [Rocket Launchers](https://github.com/bugworm/Categories/wiki/Rocket-Launchers)
-* [Shields](https://github.com/bugworm/Categories/wiki/Shields)
-* [Shotguns](https://github.com/bugworm/Categories/wiki/Shotguns)
-* [SMGs](https://github.com/bugworm/Categories/wiki/SMGs)
-* [Snipers](https://github.com/bugworm/Categories/wiki/Snipers)
+* [[Accessories|Accessories]]
+* [[Assault Rifles|Assault-Rifles]]
+* [[COMs|COMs]]
+* [[Gear Packs|Gear-Packs]]
+* [[Grenades|Grenades]]
+* [[Pistols|Pistols]]
+* [[Relics|Relics]]
+* [[Rocket Launchers|Rocket-Launchers]]
+* [[Shields|Shields]]
+* [[Shotguns|Shotguns]]
+* [[SMGs|SMGs]]
+* [[Snipers|Snipers]]
