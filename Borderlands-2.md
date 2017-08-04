@@ -12,5 +12,5 @@
 * [Cheat Mods](https://github.com/bugworm/Categories/wiki/Cheat-Mods)
 * [WIP or In Need of Feedback](https://github.com/bugworm/Categories/wiki/WIP)
 * [Modders Resources](https://github.com/bugworm/Categories/wiki/Modders-Resources)
-
+* [[Test|https://github.com/bugworm/Categories/wiki/Modders-Resources]]
 [[Broken link|random]] will create a new page
