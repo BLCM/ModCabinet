@@ -184,67 +184,66 @@ Manly Man Shield
 # Changelog
 Enemy Enhancer
 
-	v2-2017/06/04
-		1. added numerous red text guns/shields to enemies
-		2. made bandits in Digistruct Peak roll faster like their non-peak counterpart
+v2-2017/06/04
+1. added numerous red text guns/shields to enemies
+2. made bandits in Digistruct Peak roll faster like their non-peak counterpart
 		
-	v2.3-2017/06/04
-
-		1. fixed bugs that prevented enemies from spawning with some shields/made some shields have abnormaly high chance of spawning on enemies
+v2.3-2017/06/04
+1. fixed bugs that prevented enemies from spawning with some shields/made some shields have abnormaly high chance of spawning on enemies
 	
-	v2.4-2017/06/10
-		1. Added Categories to make it more LightChaosman's Filter tool-friendly.
-		2. Added Orphan Maker/Teeth of Terramorphous/Manly Man Shield/Hide of Terramorphous to enemy pool.
+v2.4-2017/06/10
+1. Added Categories to make it more LightChaosman's Filter tool-friendly.
+2. Added Orphan Maker/Teeth of Terramorphous/Manly Man Shield/Hide of Terramorphous to enemy pool.
 		
-	v2.5-2017/06/11
-		1. fixed loader shield regenning in Extreme version.
-		2. removed some codes that are no longer necessary.
+v2.5-2017/06/11
+1. fixed loader shield regenning in Extreme version.
+2. removed some codes that are no longer necessary.
 
-	v3.0-2017/06/24
-		1. added Gemstone weaponry to enemies
-		2. removed booster shield/roid shield/blue absorb shields from enemies and increased the chance of enemies using purple shields
-		3. sped up the rolls of engineers, jumps of various enemies, and made EXPLoader charge up for a shorter time before exploading(it also loses its effect for some reason-will try to fix)
-		4. doubled the damage of thrown grenades by enemies(hopefully)
+v3.0-2017/06/24
+1. added Gemstone weaponry to enemies
+2. removed booster shield/roid shield/blue absorb shields from enemies and increased the chance of enemies using purple shields
+3. sped up the rolls of engineers, jumps of various enemies, and made EXPLoader charge up for a shorter time before exploading(it also loses its effect for some reason-will try to fix)
+4. doubled the damage of thrown grenades by enemies(hopefully)
 		
-	v3.1-2017/06/24
-		1. Sheriff now can spawn with a gemstone maliwan pistol, instead of always spawning with a green maliwan pistol
+v3.1-2017/06/24
+1. Sheriff now can spawn with a gemstone maliwan pistol, instead of always spawning with a green maliwan pistol
 	
 UVHM+
 
-	v2-2017/06/04
-	1. increased the homing capability of Impaler
+v2-2017/06/04
+1. increased the homing capability of Impaler
 
-	v2.1-2017/06/04
-	1. removed an unintended line that affected the Impaler.
+v2.1-2017/06/04
+1. removed an unintended line that affected the Impaler.
 	
-	v2.2-2017/06/06
+v2.2-2017/06/06
 
-	1. fixed vendors(and possibly enemies) being affected in NVHM and TVHM(although level 50 TVHM still may be affected)
+1. fixed vendors(and possibly enemies) being affected in NVHM and TVHM(although level 50 TVHM still may be affected)
 	
-	known bugs: the weapon vendor in Liar's Berg will 'break', having less guns in stock compared to vendors elsewhere
+known bugs: the weapon vendor in Liar's Berg will 'break', having less guns in stock compared to vendors elsewhere
 	
-	v2.3-2017/06/10
+v2.3-2017/06/10
 	
-	1. Added Categories to make it more LightChaosman's Filter tool-friendly.
+1. Added Categories to make it more LightChaosman's Filter tool-friendly.
 	
-	v2.4-2017/07/03
+v2.4-2017/07/03
 	
-	1. Removed Swap Speed in OP levels.
+1. Removed Swap Speed in OP levels.
 	
 Badassify
 
-	v2-2017/06/04
-	1.initial release
+v2-2017/06/04
+1. initial release
 	
-	v2.1-2017/06/10
-	1. Added Categories to make it more LightChaosman's Filter tool-friendly.
+v2.1-2017/06/10
+1. Added Categories to make it more LightChaosman's Filter tool-friendly.
 	
 Vendor+
 
-	v2-2017/06/04
-	1. initial release
+v2-2017/06/04
+1. initial release
 	
-	v2.1-2017/06/10
-	1. reduced the chance for Legendaries and purples in non-IOTD items
-	2. reduced the chance for Legendaries and increased the chance for purple/Etechs in IOTD items
+v2.1-2017/06/10
+1. reduced the chance for Legendaries and purples in non-IOTD items
+2. reduced the chance for Legendaries and increased the chance for purple/Etechs in IOTD items
 3. Added Categories to make it more LightChaosman's Filter tool-friendly.
