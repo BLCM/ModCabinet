@@ -3,4 +3,4 @@
 * Borderlands The Pre-Sequel
 
 # By tags:
-WIP
+[#CommunityPatch](https://github.com/bugworm/Categories/search?utf8=%E2%9C%93&q=%22%23CommunityPatch%22&type=Wikis) | [#GameMode](https://github.com/bugworm/Categories/search?q=%22%23GameMode%22&type=Wikis&utf8=%E2%9C%93) | [#Pack](https://github.com/bugworm/Categories/search?q=%22%23Pack%22&type=Wikis&utf8=%E2%9C%93)
