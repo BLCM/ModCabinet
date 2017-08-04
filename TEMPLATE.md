@@ -1,5 +1,6 @@
 # Download
-[Mod Name](url)
+[Mod Name](url) |
+----|
 
 ## Tags
 #FIXME
