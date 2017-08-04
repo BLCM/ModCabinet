@@ -1,1 +1,1 @@
-[← Go back](https://github.com/bugworm/Categories/wiki/Gear)
+[[← Go back|Gear]]
