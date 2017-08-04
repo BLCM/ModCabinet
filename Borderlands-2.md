@@ -8,3 +8,4 @@
 * [Tools And Misc](https://github.com/bugworm/Categories/wiki/Tools-And-Misc)
 * [Overhauls](https://github.com/bugworm/Categories/wiki/Overhauls)
 * [Quality of Life](https://github.com/bugworm/Categories/wiki/Quality-Of-Life)
+* [Visuals And Standalone Skins](https://github.com/bugworm/Categories/wiki/Visuals-And-StandAlone-Skins)
