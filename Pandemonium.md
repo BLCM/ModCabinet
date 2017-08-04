@@ -3,7 +3,7 @@
 ----|----|----|----|----
 
 ## Tags
-#Packs
+#GameMode #Packs
 
 # Description
 WIP
