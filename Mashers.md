@@ -3,7 +3,7 @@
 ----|
 
 ## Tags
-#Pack
+#Gear #Pistol #Pack
 
 # Description
 Changes the double accessory of all pistols into the (in)famous Masher accessory.
