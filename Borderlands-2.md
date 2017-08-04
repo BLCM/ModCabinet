@@ -14,4 +14,4 @@
 * [Modders Resources](https://github.com/bugworm/Categories/wiki/Modders-Resources)
 
 
-[[Feeling Lucky ?|random]] 
+[[Create Random|random]] 
