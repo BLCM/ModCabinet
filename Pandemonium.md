@@ -9,5 +9,8 @@
 
 [Pandemonium(Weapons Only)](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/Pandemonium%20(Weapons%20Only).txt)
 
+## Tags
+#Packs
+
 # Description
 WIP
