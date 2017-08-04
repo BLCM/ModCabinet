@@ -1,1 +1,1 @@
-[← Go back](https://github.com/bugworm/Categories/wiki/Skills)
+[[← Go back|Skills]]
