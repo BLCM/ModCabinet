@@ -6,3 +6,4 @@
 * [Skills](https://github.com/bugworm/Categories/wiki/Skills)
 * [Farming](https://github.com/bugworm/Categories/wiki/Farming)
 * [Tools And Misc](https://github.com/bugworm/Categories/wiki/Tools-And-Misc)
+* [Overhauls](https://github.com/bugworm/Categories/wiki/Overhauls)
