@@ -1,1 +1,1 @@
-[← Go back](https://github.com/bugworm/Categories/wiki/Borderlands-2)
+[[← Go back|Borderlands-2]]
