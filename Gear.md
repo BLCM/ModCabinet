@@ -10,4 +10,5 @@
 * [Rocket Launchers](https://github.com/bugworm/Categories/wiki/Rocket-Launchers)
 * [Shields](https://github.com/bugworm/Categories/wiki/Shields)
 * [Shotguns](https://github.com/bugworm/Categories/wiki/Shotguns)
+* [SMGs](https://github.com/bugworm/Categories/wiki/SMGs)
 * [Snipers](https://github.com/bugworm/Categories/wiki/Snipers)
