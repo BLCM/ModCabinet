@@ -10,10 +10,17 @@ Description1 | Description2 | Description3
 [Mod Name1](url) | [Mod Name2](url) | [Mod Name3](url)
 
 ## Tags
-#FIXME
+#Tag1 #Tag2
 
 # Description
-Fixme
+Write here description, install instructions and other stuff you want to. You can use header2 and header3 here:
+## Header2
+### Header3
+or code
+```
+some code
+another code
+```
 
 # Screenshots
 ![any name](url)
