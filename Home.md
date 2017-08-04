@@ -1,4 +1,4 @@
-[Template](https://github.com/bugworm/Categories/wiki/TEMPLATE) for creating your own pages
+[[Template|TEMPLATE]] for creating your own pages. To download files simply press `RMC > Save as...` and save file into `$BORDERLANDSGAME\Binaries` directory
 # By category:
 * [[Borderlands 2|Borderlands-2]]
 * [[Borderlands The Pre-Sequel|BorderlandsTPS]]
