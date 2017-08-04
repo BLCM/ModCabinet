@@ -1,4 +1,4 @@
 # Borderlands 2
-* [Community Patch](https://github.com/bugworm/Categories/wiki/Community-Patch)
-* Game Modes
+* [Community Patch](https://github.com/bugworm/Categories/wiki/Community-Patch) by [Shadowevil](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Shadowevil) and team
+* [Game Modes](https://github.com/bugworm/Categories/wiki/Game-Modes)
 * Gear
