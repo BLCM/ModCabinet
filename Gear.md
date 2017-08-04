@@ -3,3 +3,4 @@
 * [Accessories](https://github.com/bugworm/Categories/wiki/Accessories)
 * [Assault Rifles](https://github.com/bugworm/Categories/wiki/Assault-Rifles) 
 * [COMs](https://github.com/bugworm/Categories/wiki/COMs)
+* [Gear Packs](https://github.com/bugworm/Categories/wiki/Gear-Packs)
