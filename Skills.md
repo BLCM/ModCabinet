@@ -1,4 +1,4 @@
-[← Go back](https://github.com/bugworm/Categories/wiki)
+[← Go back](https://github.com/bugworm/Categories/wiki/Borderlands-2)
 
 * [Axton](https://github.com/bugworm/Categories/wiki/Axton)
 * [Gaige](https://github.com/bugworm/Categories/wiki/Gaige)
