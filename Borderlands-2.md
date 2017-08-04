@@ -5,4 +5,4 @@
 * [Gear](https://github.com/bugworm/Categories/wiki/Gear)
 * [Skills](https://github.com/bugworm/Categories/wiki/Skills)
 * [Farming](https://github.com/bugworm/Categories/wiki/Farming)
-* [Tools And Misc] (https://github.com/bugworm/Categories/wiki/Tools-And-Misc)
+* [Tools And Misc](https://github.com/bugworm/Categories/wiki/Tools-And-Misc)
