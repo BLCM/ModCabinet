@@ -10,3 +10,4 @@ Ideal would be high damage, low firerate but spins up like spinnigun, high max f
 
 ### Pictures
 ![](https://staticdelivery.nexusmods.com/mods/428/images/43-3-1497576353.jpg)
+![](https://staticdelivery.nexusmods.com/mods/428/images/43-0-1497576354.jpg)
