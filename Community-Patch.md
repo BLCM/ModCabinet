@@ -1,8 +1,7 @@
-[DOWNLOAD](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Shadowevil/Patch.txt)
+# Download
+[Patch](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Shadowevil/Patch.txt)
 
-[DOWNLOAD OFFLINE VERSION](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Shadowevil/PatchOffline.txt)
-
-Created by ShadowEvil and team
+[PatchOffline](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Shadowevil/PatchOffline.txt)
 
 Tags: #CommunityPatch #Packs
 
