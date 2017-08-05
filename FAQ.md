@@ -4,9 +4,6 @@ Simply press `RMC > Save as...` and save file into `$BORDERLANDSGAME\Binaries` d
 ## Why tags is so strange?
 `ll` (2 x `L` in lowercase) is needed for separation tags and words that can be found in pages. We don't use `#` because Github search simply ignore symbols.
 
-## How can I use several tag for searching?
-Search for `"llTag1" "llTag2"`.
-
 ## I'm not a modder/I already addded all my mods here, and I want to contribute. Can I add pages for mods from other authors?
 Sure! Most of them already has some info(at the begining of the file or on authors(mods) directory) so you can copypaste this info, format it right and add to a categories.
 
