@@ -6,11 +6,8 @@
 ## Version
 v3.1
 
-## Tags 
-llCommunityPatch llPack
-
 # Description
-WIP
+Community patch is a pack of many balance fixes, improved drop pools for many bosses, som quality of life stuff like eridium autopickup etc. Many mods is written with community patch in mind, so this is pretty much must-have mod.
 
 # Changelog
 Full changelog version made by Kooby containing all Borderlands 2 Community Patch changes. 
