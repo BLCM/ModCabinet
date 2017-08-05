@@ -22,6 +22,8 @@ Description1 | Description2 | Description3
 
 //You can also use several tables. For description use h2(`##`). [[Example|UVHM-Plus]]
 
+//You can skip Version
+
 ## Version
 v1.1
 
