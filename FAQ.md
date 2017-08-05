@@ -1,8 +1,8 @@
 ## How can I download mods? It gives me a page with text in my browser
 Simply press `RMC > Save as...` and save file into `$BORDERLANDSGAME\Binaries` directory. Some mods has install instructions in the `Description`, check them as well.
 
-## Why tags are so strange?
-`ll` (2 x `L` in lowercase) is needed for separation tags and words that can be found in pages. We don't use `#` because Github search simply ignore symbols.
+## Where is the tags?
+They didn't work well. Github search is awful for something like this, so we decided to get rid of them(at least for now)
 
 ## I'm not a modder/I already addded all my mods here, and I want to contribute. Can I add pages for mods from other authors?
 Sure! Most of them already has some info(at the begining of the file or on authors(mods) directory) so you can copypaste this info, format it right and add to a categories.
