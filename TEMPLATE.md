@@ -34,7 +34,7 @@ v1.1
 ## Tags
 llTag1 llTag2
 
-//we are using 2x `l`(`L` in lowcase) because Github skips all symbols such as `#` while searching
+//we are using 2x `l`(`L` in lowercase) because Github skips all symbols such as `#` while searching
 //List of tags you can find in [[home page|Home]]. You can also add a custom tag, then add it to the home page(just write a name of the tag, I'll fix search later)
 
 # Description
