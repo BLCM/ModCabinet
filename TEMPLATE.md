@@ -1,4 +1,4 @@
-//All lines with `//` symbols at the begining is for description and shouldn't be used in pages
+//All lines with `//` symbols at the begining are for description and shouldn't be used in pages
 
 //Versions and Tags should be marked with header2(`##`). All other major section should be marked with h1(`#`)
 
