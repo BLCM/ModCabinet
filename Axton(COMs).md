@@ -1,1 +1,1 @@
-[[← Go back|Gear]]
+[[← Go back|COMs]]
