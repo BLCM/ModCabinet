@@ -23,7 +23,7 @@ Online | Offline
 ----|----
 
 ## Tags
-#GameMode
+llGameMode
 
 # Description
 ## How to install
