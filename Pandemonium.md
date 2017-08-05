@@ -6,7 +6,7 @@
 ----|----|----|----
 
 ## Tags
-#GameMode #Pack
+llGameMode llPack
 
 # Description
 Makes every weapon able to spawn with any barrel, element, accessory, etc. of their respective weapon type. Also enables two accessories on nearly all weapons.
