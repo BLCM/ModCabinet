@@ -23,3 +23,6 @@ IMPORTANT. Place this line with alphabetical sort in mind, don't just add it to 
 
 ## There are plenty of mistakes here/there.
 Editing mistakes will be appretiated. Just click `Edit` and fix them.
+
+## I have some ideas about FAQ/Template/general structure.
+Create an issue and we will discuss this.
