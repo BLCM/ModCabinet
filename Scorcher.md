@@ -1,5 +1,6 @@
 # Download
-[Scorcher](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/AxxroyTovu/Scorcher.txt) |----|
+[Scorcher](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/AxxroyTovu/Scorcher.txt) |
+----|
 
 
 ## Description
