@@ -2,9 +2,6 @@
 [Mashers](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/MashersV3.txt) |
 ----|
 
-## Tags
-llGear llPistol llPack
-
 # Description
 Changes the double accessory of all pistols into the (in)famous Masher accessory.
 
