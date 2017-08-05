@@ -5,8 +5,6 @@
 [Weapons Only](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/Pandemonium%20(Weapons%20Only).txt) | [Grenades Only](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/Pandemonium%20(Grenades%20Only).txt) | [Relics Only](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/Pandemonium%20(Relics%20Only).txt) | [Shields Only](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/Pandemonium%20(Shields%20Only).txt)
 ----|----|----|----
 
-## Tags
-llGameMode llPack
 
 # Description
 Makes every weapon able to spawn with any barrel, element, accessory, etc. of their respective weapon type. Also enables two accessories on nearly all weapons.
