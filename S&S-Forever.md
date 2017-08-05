@@ -1,5 +1,5 @@
 # Download
-[SnS Forever](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/S%26SForeverV8.txt) |
+[S&S Forever](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/S%26SForeverV8.txt) |
 ----|
 
 ## Tags
