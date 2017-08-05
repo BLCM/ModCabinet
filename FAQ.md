@@ -1,4 +1,4 @@
-## How can I download mods? It gives me page with text in my browser
+## How can I download mods? It gives me a page with text in my browser
 Simply press `RMC > Save as...` and save file into `$BORDERLANDSGAME\Binaries` directory. Some mods has install instructions in the `Description`, check them as well.
 
 ## Why tags is so strange?
