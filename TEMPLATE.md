@@ -28,9 +28,9 @@ etc. More about Markdown here https://github.com/adam-p/markdown-here/wiki/Markd
 ![any name](http://3.bp.blogspot.com/-3ghyra88vi8/UGfwf_D7UTI/AAAAAAAADEQ/iF31Eb2hZ2w/s1600/borderlands2.jpg)
 
 # Changelog
-v 1.1
+#### v 1.1
 * Fixme
 * Fixme
 
-v 1.0
+#### v 1.0
 * Initial release
