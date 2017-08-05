@@ -5,9 +5,6 @@
 ## Version
 2.0
 
-## Tags
-llTool
-
 # Description
 Patcher for borderlands2.exe and borderlandspresequel.exe for ability to use community patch and other mods.
 
