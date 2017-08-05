@@ -13,7 +13,7 @@ Sure! Most of them already has some info(at the begining of the file or on autho
 
 ![new post](https://i.imgur.com/puvhVrB.png)
 
-3. Choose a name(name of your mod usually) and edit page. Here is [[template|TEMPLATE]] with examples and descriptions. You can also check any page formating by clicking `Edit`
+3. Choose a name(name of your mod usually) and edit page. Here is [template](https://github.com/bugworm/Categories/wiki/TEMPLATE/_edit) (DO NOT EDIT IT, just copy stuff you need to your page) with examples and descriptions. You can also check any page formating by clicking `Edit`
 
 After creating a page you probably want to add it to category. You can add them to several categories if you want, just like with tags. To add your page, first of all, check the name of your page in adress bar. It usually the same as you typed, but spaces replaced with `-`. Then go to category you want, click `Edit` and add it with line:
 
