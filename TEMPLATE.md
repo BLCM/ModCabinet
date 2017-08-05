@@ -9,8 +9,19 @@ Description1 | Description2 | Description3
 ----|----|----
 [Mod Name1](url) | [Mod Name2](url) | [Mod Name3](url)
 
+## Version
+1.1
+
+//or
+
+**Mod1** 1.1 
+
+**Mod2** 1.8
+
 ## Tags
-#Tag1 #Tag2
+llTag1 llTag2
+
+//we are using 2x `l`(`L` in lowcase) because Github skips all symbols such as `#` while searching
 
 # Description
 Write here description, install instructions and other stuff you want to. You can use header2, header3 header4 etc here:
