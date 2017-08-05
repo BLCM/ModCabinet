@@ -3,4 +3,4 @@
 ----|
 
 ## Description
-jaxOgre - Based off of Lftstrafe's old AjaxOgre File
+AjaxOgre - Based off of Lftstrafe's old AjaxOgre File
