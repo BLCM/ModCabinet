@@ -2,6 +2,9 @@
 [SnS Forever](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Aaron0000/S%26SForeverV8.txt) |
 ----|
 
+## Tags
+llGear llPack llOverhaul
+
 # Description
 S&S FOREVER 8.0
 Completely overhauls the Bandit manufacturer into S&S from Borderlands 1.
