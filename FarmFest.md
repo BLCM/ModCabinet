@@ -2,9 +2,6 @@
 [[FarmFest|https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Jim%20Raven/FarmFest]] |
 ----|
 
-## Tags
-llFarming
-
 # Description
  Makes Farming A lot Less tedious and A ALOT FASTER
 
