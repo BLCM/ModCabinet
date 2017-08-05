@@ -9,11 +9,12 @@ Sure! Most of them already has some info(at the begining of the file or on autho
 
 ## How can I add my mods to this wiki and how I can format my mod page correctly?
 1. Go to [[Wiki|Home]] (well, you're already here actually)
-2. Click `New Page`
+2. Search for a page in `Find page` field, maybe someone already added your mod. If not, goto 3
+3. Click `New Page`
 
 ![new post](https://i.imgur.com/puvhVrB.png)
 
-3. Choose a name(name of your mod usually) and edit page. Here is [template](https://github.com/bugworm/Categories/wiki/TEMPLATE/_edit) (DO NOT EDIT IT, just copy stuff you need to your page) with examples and descriptions. You can also check any page formating by clicking `Edit`
+4. Choose a name(name of your mod usually) and edit page. Here is [template](https://github.com/bugworm/Categories/wiki/TEMPLATE/_edit) (DO NOT EDIT IT, just copy stuff you need to your page) with examples and descriptions. You can also check any page formating by clicking `Edit`
 
 After creating a page you probably want to add it to category. You can add them to several categories if you want, just like with tags. To add your page, first of all, check the name of your page in adress bar. It usually the same as you typed, but spaces replaced with `-`. Then go to category you want, click `Edit` and add it with line:
 
