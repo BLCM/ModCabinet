@@ -22,6 +22,15 @@ Online | Offline
 [UVHM+](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/theNocturni/UVHM%2B/uvhm%2B%20base/UVHM%2B%20v2.6.txt) | [UVHM+(speed)](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/theNocturni/UVHM%2B/uvhm%2B%20base/UVHM%2B(speed)%20v2.6.txt)
 ----|----
 
+## Version
+**Enemy Enhancer:** v3.1-2017/06/24
+
+**UVHM+:** v2.4-2017/07/03
+
+**Badassify:** v2.1-2017/06/10 
+
+**Vendor+:** v2.1-2017/06/10
+
 ## Tags
 llGameMode
 
