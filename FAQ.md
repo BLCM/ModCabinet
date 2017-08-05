@@ -8,7 +8,7 @@ They didn't work well. Github search is awful for something like this, so we dec
 Sure! Most of them already has some info(at the begining of the file or on authors(mods) directory) so you can copypaste this info, format it right and add to a categories.
 
 ## How can I add my mods to this wiki and how I can format my mod page correctly?
-1. Go to [[Wiki|Home]]
+1. Go to [[Wiki|Home]] (well, you're already here actually)
 2. Click `New Page`
 
 ![new post](https://i.imgur.com/puvhVrB.png)
