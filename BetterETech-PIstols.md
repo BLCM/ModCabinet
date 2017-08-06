@@ -1,5 +1,7 @@
 # Download
-[Better E-Tech pistols](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Battle-Bee/Better%20E-Tech%20Pistols)
+[Better E-Tech pistols](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Battle-Bee/Better%20E-Tech%20Pistols) |
+----|
+
 ## Description
  Makes E-Tech pistols actually worth a damn! 
 
