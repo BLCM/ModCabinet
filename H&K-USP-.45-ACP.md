@@ -3,14 +3,14 @@
 ----|
 
 ## Description
-    Made by Coleby
+Made by Coleby
 
-    Replaces the Teapot
+Replaces the Teapot
 
-    Buffed Weapon Damage (50%)
+Buffed Weapon Damage (50%)
 
-    Highly accurate, low recoil (sway)
+Highly accurate, low recoil (sway)
 
-    Always comes without an element
+Always comes without an element
 
-    Always comes without a scope/sight
+Always comes without a scope/sight
