@@ -5,7 +5,9 @@
 
 ## Description 
 Hexagun
+
 This is the Hexagun mod V0.5, this replaces the Volcano. Still a WIP
 
 Hexagun ALt
-his is the Hexagun mod V0.1, this replaces the Volcano. Still a WIP
+
+This is the Hexagun mod V0.1, this replaces the Volcano. Still a WIP
