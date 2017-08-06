@@ -1,5 +1,7 @@
 # Download
-[The Wing Boy](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/AxxroyTovu/WingBoy.txt)
+[The Wing Boy](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/AxxroyTovu/WingBoy.txt) |
+----|
+
 ## Description
 By Axxroy
 
