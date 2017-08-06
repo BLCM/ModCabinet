@@ -1,7 +1,7 @@
 # Download
 
 [Hexagun](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/CMD_Obvious/Hexagun.txt) | [Hexagun Alt](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/CMD_Obvious/HexagunAlt.txt) |
-----|----|----
+----|----
 
 ## Description 
 Hexagun
