@@ -2,9 +2,9 @@
 [Vladof Bloodletter](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Battle-Bee/Vladof_Bloodletter)
 
 ## Description
- Pulverizer Pistol 
- Replaces the Devastator 
+ Bloodletter Assault Rifle 
+ Replaces the Shreddifier 
 
- Shoots rockets - actual rocket launcher projectiles. Gargantuan damage, very slow fire rate, decreased accuracy and increased recoil. Consumes 6 ammo per shot. Rockets have a medium-sized AoE. 
+ Shoots 4 bullets in a moderately tight horizontal line. Significantly decreased damage and reload speed, significantly increased mag size and accuracy. 
 
- Includes a magnificent custom skin.
+ Includes a gorgeous custom skin! 
