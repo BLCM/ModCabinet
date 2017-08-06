@@ -20,7 +20,7 @@ Description1 | Description2 | Description3
 ----|----|----
 [Mod Name1](url) | [Mod Name2](url) | [Mod Name3](url)
 
-//You can also use several tables. For description use h2(`##`). [[Example|UVHM-Plus]]
+//You can also use several tables. For description use h2(`##`). Example: https://github.com/bugworm/Categories/wiki/UVHM-Plus
 
 //You can skip Version
 
