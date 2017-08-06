@@ -1,5 +1,6 @@
 # Download
-[Vladof Bloodletter](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Battle-Bee/Vladof_Bloodletter)
+[Vladof Bloodletter](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Battle-Bee/Vladof_Bloodletter) |
+----|
 
 ## Description
  Bloodletter Assault Rifle 
