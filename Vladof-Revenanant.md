@@ -1,4 +1,4 @@
-# Downloade
+# Download
 [Vladof Revenant](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Battle-Bee/Vladof_Revenant) |
 ----|
 
