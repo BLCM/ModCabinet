@@ -1,3 +1,0 @@
-[[← Go back|Borderlands-2]]
-* [[Pandemonium|Pandemonium]] by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000)
-* [UVHM+](https://github.com/bugworm/Categories/wiki/UVHM-Plus) by [theNocturni](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/theNocturni)

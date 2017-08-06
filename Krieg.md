@@ -1,1 +1,0 @@
-[[← Go back|Skills]]
