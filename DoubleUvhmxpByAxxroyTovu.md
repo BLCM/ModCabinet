@@ -1,5 +1,6 @@
 # Download
-[[Double UVHM xp|https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/AxxroyTovu/DoubleUVHMxp.txt]]
+[[Double UVHM xp|https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/AxxroyTovu/DoubleUVHMxp.txt]] |
+----|
 
 ## Description
  Update to UVHM Plus converted for BL2
