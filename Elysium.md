@@ -4,14 +4,14 @@
 
 ## Descritpion
 Elysium 5
-This is the Elysium Plasma Caster Mod, this version [[replaces the Dahl Emperor SMG]] 
-[[MAKE SURE THAT THERE IS *NO* OTHER NON-BASE PATCH CODE THE ALTERS THE EMPEROR SMG IN ]] 
-[[YOUR VERSION OF THE PATCH, CORRECT FUNCTIONING IS NOT GUARANTEED OTHERWISE!          ]]
+This is the Elysium Plasma Caster Mod, this version replaces the Dahl Emperor SMG
+MAKE SURE THAT THERE IS *NO* OTHER NON-BASE PATCH CODE THE ALTERS THE EMPEROR SMG IN 
+YOUR VERSION OF THE PATCH, CORRECT FUNCTIONING IS NOT GUARANTEED OTHERWISE!          
 
 Elysium 6
-This is the Elysium Plasma Caster (CLASSIC SKIN) Mod, this version [[replaces the Dahl Emperor SMG]] 
+This is the Elysium Plasma Caster (CLASSIC SKIN) Mod, this version replaces the Dahl Emperor SMG
 
-[[PLEASE READ: YOU CAN CHANGE THE SKIN ON THE WEAPON, GO TO THE ///MATERIAL\\\ SECTION IN THIS FILE TO CHOOSE WHICH ONE YOU WANT TO USE]]
+PLEASE READ: YOU CAN CHANGE THE SKIN ON THE WEAPON, GO TO THE ///MATERIAL\\\ SECTION IN THIS FILE TO CHOOSE WHICH ONE YOU WANT TO USE
 
 
 
